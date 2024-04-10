@@ -1,3 +1,11 @@
+# WORK IN PROGRESS
+
+This is a work-in-progress port to [gren](https://gren-lang.org/).
+
+Original README continues below.
+
+---
+
 # date
 
 This Elm package provides a simple `Date` type for working with dates without times or zones.
